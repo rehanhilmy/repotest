@@ -6,3 +6,4 @@ added text after finished conflict
 
 selesein conflict pakek diff merge
 
+added new line in feature-2
