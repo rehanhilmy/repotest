@@ -4,5 +4,5 @@ branch develop (edited this online)
 
 added text after finished conflict
 
-added line in master (bersamaan dengan branch feature-1)
+selesein conflict pakek diff merge
 
