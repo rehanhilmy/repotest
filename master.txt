@@ -7,3 +7,7 @@ added text after finished conflict
 selesein conflict pakek diff merge
 
 edit text stelah konflik feature-2 sama master
+
+tambah text
+
+tambah text
