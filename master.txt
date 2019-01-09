@@ -4,3 +4,4 @@ branch develop (edited this online)
 
 added text after finished conflict
 
+added line in feature-1
