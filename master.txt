@@ -6,3 +6,4 @@ added text after finished conflict
 
 selesein conflict pakek diff merge
 
+added line bersamaan sama branch feature-2
