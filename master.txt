@@ -6,4 +6,6 @@ added text after finished conflict
 
 selesein conflict pakek diff merge
 
-added new line in feature-2
+<<<<<<< HEAD
+edit text stelah konflik feature-2 sama master
+>>>>>>> master
