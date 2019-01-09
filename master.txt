@@ -2,4 +2,5 @@ branch master
 
 branch develop (edited this online)
 
-branch master
+added text after finished conflict
+
