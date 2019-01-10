@@ -23,3 +23,5 @@ tambah branch di master (3)
 tambah branch di branch (3)
 
 text di master
+
+text di branch
