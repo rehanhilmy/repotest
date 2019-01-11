@@ -39,3 +39,5 @@ text di master (4)
 text di branch (4)
 
 text di master yg mau di stash
+
+test stash lagi
